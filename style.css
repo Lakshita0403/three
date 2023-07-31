@@ -1,0 +1,44 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img{
+    transform: rotate(-30deg);
+   transform: rotateY('-90');
+    transition: 0.5s;
+    padding: 0px;
+}
+
+.index
+{
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: rgb(212, 245, 240);
+    transform: rotate(-5deg);
+    text-align: center;
+    font-weight: bold;
+   
+}
+
+.about
+{
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: rgb(220, 138, 255);
+    transform: rotate(-5deg);
+    text-align: center;
+    font-weight: bold;
+}
+
+.service
+{
+    border: 1px solid black;
+    border-radius: 10px;
+    text-align: center;
+    background-color: rgb(241,206,238);
+    transform: rotate(-5deg);
+    font-weight: bold;
+    
+}
