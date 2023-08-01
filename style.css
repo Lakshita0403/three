@@ -10,7 +10,6 @@ img{
     transition: 0.5s;
     padding: 0px;
 }
-
 .index
 {
     border: 1px solid black;
@@ -21,7 +20,6 @@ img{
     font-weight: bold;
    
 }
-
 .about
 {
     border: 1px solid black;
@@ -31,7 +29,6 @@ img{
     text-align: center;
     font-weight: bold;
 }
-
 .service
 {
     border: 1px solid black;
